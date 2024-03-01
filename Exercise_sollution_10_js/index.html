@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        let rand = Math.random()// it genrate a random value b/w 0 to 1.
+        let first, second, third;
+        if (rand < 0.33) {
+            first = "Crazy"
+            // 0 0.33 0.66 1
+        }
+        else if (rand < 0.66 && rand >= 0.33) {
+            first = "Amezing"
+        }
+        else {
+            first = "Fire"
+        }
+
+
+        // Genrate second time
+        if (rand < 0.33) {
+            second = "Engine"
+            // 0 0.33 0.66 1
+        }
+        else if (rand < 0.66 && rand >= 0.33) {
+            second = "Foods"
+        }
+        else {
+            second = "Garments"
+        }
+
+
+        // Genrate Third time
+        if (rand < 0.33) {
+            third = "Bros"
+            // 0 0.33 0.66 1
+        }
+        else if (rand < 0.66 && rand >= 0.33) {
+            third = "Limited"
+        }
+        else {
+            third = "Hub"
+        }
+
+        console.log('${first} ${second} ${third}')
+    </script>
+</body>
+
+</html>

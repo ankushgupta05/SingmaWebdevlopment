@@ -1,0 +1,9 @@
+<h>  :  all about heading
+<p>  :  all about paragraph
+<hr> :  horizontal tag 
+<br> :  break line
+lorem : for create text
+<ul>  :  unorderlist  
+<ol>  :  order list
+<li>  :   list
+<a>   : anchor tag

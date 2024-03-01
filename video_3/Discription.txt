@@ -1,0 +1,8 @@
+<video>     :   video for play on screen
+controls    :   use for play video in video tag
+loop        :   loop use for video play in contineous manner in video tag
+autoplay    :   for start video without permission
+<img>       :   for apply image on screen
+style       :   use for css 
+<audio>     :   for apply audio on screen
+<table>     :   for make table 

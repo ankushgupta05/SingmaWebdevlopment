@@ -1,0 +1,18 @@
+div{
+    background-color: aqua;
+    border: solid 2px; color: black;
+}
+p{
+    background-color: rgb(7, 44, 76);
+    border: solid 2px ; color: aqua;
+}
+span{
+    background-color: rgb(89, 185, 94);
+    border: solid 2px ; color: rgb(15, 59, 59);
+    
+}
+h1{
+    background-color: rgb(117, 19, 153);
+    border: solid 2px ; color: rgb(16, 108, 108);
+
+}
