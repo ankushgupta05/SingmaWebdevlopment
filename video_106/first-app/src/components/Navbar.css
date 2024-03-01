@@ -1,0 +1,21 @@
+nav ul{
+    display: flex;
+    text-align: none;
+}
+
+li{
+    list-style: none;
+
+}
+ul{
+    gap: 35px;
+}
+
+nav{
+    background-color: bisque;
+    padding: 23px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
